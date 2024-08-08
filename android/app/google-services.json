@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509011285905",
+    "project_id": "test-hibank",
+    "storage_bucket": "test-hibank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509011285905:android:1131810c8b7f71192aac30",
+        "android_client_info": {
+          "package_name": "com.example.test_hi_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNY7-kZBwxR_xfsD5JZYVAtffQasY7RXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
